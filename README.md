@@ -1,4 +1,4 @@
-# warehouse_sim
+# SIH Warehouse Logistic Simulator
 
 A curated collection of models for use in the [Gazebo Simulator](http://www.gazebosim.org)
 
