@@ -1,0 +1,36 @@
+aisle_mode: bidirectional
+edges:
+- - NW
+  - NE
+- - NE
+  - SE
+- - SE
+  - SW
+- - SW
+  - NW
+junctions:
+- NW
+- NE
+- SE
+- SW
+nodes:
+  NE:
+    pos:
+    - 4.25
+    - 3.3
+    type: junction
+  NW:
+    pos:
+    - -4.11
+    - 3.3
+    type: junction
+  SE:
+    pos:
+    - 4.25
+    - -3.4
+    type: junction
+  SW:
+    pos:
+    - -4.11
+    - -3.4
+    type: junction

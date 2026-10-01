@@ -1,0 +1,464 @@
+edges:
+- - N_1_0
+  - N_2_0
+- - N_3_1
+  - N_4_1
+- - N_2_0
+  - N_3_0
+- - N_1_0
+  - N_1_1
+- - N_0_0
+  - N_0_1
+- - N_0_4
+  - N_0_5
+- - N_1_5
+  - N_1_6
+- - N_5_0
+  - N_5_1
+- - N_3_3
+  - N_3_4
+- - N_5_4
+  - N_5_5
+- - N_5_6
+  - N_5_7
+- - N_5_1
+  - N_5_2
+- - N_6_5
+  - N_6_6
+- - N_5_6
+  - N_6_6
+- - N_2_1
+  - N_3_1
+- - N_3_5
+  - N_3_6
+- - N_5_3
+  - N_5_4
+- - N_0_4
+  - N_1_4
+- - N_3_2
+  - N_4_2
+- - N_2_5
+  - N_2_6
+- - N_4_0
+  - N_5_0
+- - N_3_7
+  - N_4_7
+- - N_7_1
+  - N_7_2
+- - N_4_4
+  - N_5_4
+- - N_4_6
+  - N_5_6
+- - N_4_6
+  - N_4_7
+- - N_4_1
+  - N_5_1
+- - N_5_7
+  - N_6_7
+- - N_1_3
+  - N_2_3
+- - N_2_3
+  - N_2_4
+- - N_6_0
+  - N_7_0
+- - N_2_4
+  - N_3_4
+- - N_4_5
+  - N_5_5
+- - N_1_3
+  - N_1_4
+- - N_3_2
+  - N_3_3
+- - N_0_5
+  - N_1_5
+- - N_3_3
+  - N_4_3
+- - N_6_7
+  - N_7_7
+- - N_3_6
+  - N_3_7
+- - N_0_3
+  - N_1_3
+- - N_7_6
+  - N_7_7
+- - N_3_5
+  - N_4_5
+- - N_7_5
+  - N_7_6
+- - N_2_6
+  - N_3_6
+- - N_0_1
+  - N_1_1
+- - N_6_2
+  - N_6_3
+- - N_4_3
+  - N_5_3
+- - N_1_1
+  - N_1_2
+- - N_4_1
+  - N_4_2
+- - N_2_2
+  - N_3_2
+- - N_6_0
+  - N_6_1
+- - N_3_0
+  - N_3_1
+- - N_0_2
+  - N_0_3
+- - N_2_7
+  - N_3_7
+- - N_0_6
+  - N_1_6
+- - N_6_1
+  - N_6_2
+- - N_6_1
+  - N_7_1
+- - N_5_2
+  - N_6_2
+- - N_6_3
+  - N_7_3
+- - N_6_3
+  - N_6_4
+- - N_1_7
+  - N_2_7
+- - N_6_4
+  - N_7_4
+- - N_0_6
+  - N_0_7
+- - N_6_3
+  - N_7_3
+- - N_1_2
+  - N_1_3
+- - N_0_0
+  - N_1_0
+- - N_7_0
+  - N_7_1
+- - N_6_5
+  - N_7_5
+- - N_7_4
+  - N_7_5
+- - N_5_5
+  - N_5_6
+- - N_2_2
+  - N_2_3
+nodes:
+  N_0_0:
+    pos:
+    - -16.0
+    - -16.0
+    type: junction
+  N_0_1:
+    pos:
+    - -16.0
+    - -12.0
+    type: junction
+  N_0_2:
+    pos:
+    - -16.0
+    - -8.0
+    type: junction
+  N_0_3:
+    pos:
+    - -16.0
+    - -4.0
+    type: junction
+  N_0_4:
+    pos:
+    - -16.0
+    - 0.0
+    type: junction
+  N_0_5:
+    pos:
+    - -16.0
+    - 4.0
+    type: junction
+  N_0_6:
+    pos:
+    - -16.0
+    - 8.0
+    type: junction
+  N_0_7:
+    pos:
+    - -16.0
+    - 12.0
+    type: junction
+  N_1_0:
+    pos:
+    - -12.0
+    - -16.0
+    type: junction
+  N_1_1:
+    pos:
+    - -12.0
+    - -12.0
+    type: junction
+  N_1_2:
+    pos:
+    - -12.0
+    - -8.0
+    type: junction
+  N_1_3:
+    pos:
+    - -12.0
+    - -4.0
+    type: junction
+  N_1_4:
+    pos:
+    - -12.0
+    - 0.0
+    type: junction
+  N_1_5:
+    pos:
+    - -12.0
+    - 4.0
+    type: junction
+  N_1_6:
+    pos:
+    - -12.0
+    - 8.0
+    type: junction
+  N_1_7:
+    pos:
+    - -12.0
+    - 12.0
+    type: junction
+  N_2_0:
+    pos:
+    - -8.0
+    - -16.0
+    type: junction
+  N_2_1:
+    pos:
+    - -8.0
+    - -12.0
+    type: junction
+  N_2_2:
+    pos:
+    - -8.0
+    - -8.0
+    type: junction
+  N_2_3:
+    pos:
+    - -8.0
+    - -4.0
+    type: junction
+  N_2_4:
+    pos:
+    - -8.0
+    - 0.0
+    type: junction
+  N_2_5:
+    pos:
+    - -8.0
+    - 4.0
+    type: junction
+  N_2_6:
+    pos:
+    - -8.0
+    - 8.0
+    type: junction
+  N_2_7:
+    pos:
+    - -8.0
+    - 12.0
+    type: junction
+  N_3_0:
+    pos:
+    - -4.0
+    - -16.0
+    type: junction
+  N_3_1:
+    pos:
+    - -4.0
+    - -12.0
+    type: junction
+  N_3_2:
+    pos:
+    - -4.0
+    - -8.0
+    type: junction
+  N_3_3:
+    pos:
+    - -4.0
+    - -4.0
+    type: junction
+  N_3_4:
+    pos:
+    - -4.0
+    - 0.0
+    type: junction
+  N_3_5:
+    pos:
+    - -4.0
+    - 4.0
+    type: junction
+  N_3_6:
+    pos:
+    - -4.0
+    - 8.0
+    type: junction
+  N_3_7:
+    pos:
+    - -4.0
+    - 12.0
+    type: junction
+  N_4_0:
+    pos:
+    - 0.0
+    - -16.0
+    type: junction
+  N_4_1:
+    pos:
+    - 0.0
+    - -12.0
+    type: junction
+  N_4_2:
+    pos:
+    - 0.0
+    - -8.0
+    type: junction
+  N_4_3:
+    pos:
+    - 0.0
+    - -4.0
+    type: junction
+  N_4_4:
+    pos:
+    - 0.0
+    - 0.0
+    type: junction
+  N_4_5:
+    pos:
+    - 0.0
+    - 4.0
+    type: junction
+  N_4_6:
+    pos:
+    - 0.0
+    - 8.0
+    type: junction
+  N_4_7:
+    pos:
+    - 0.0
+    - 12.0
+    type: junction
+  N_5_0:
+    pos:
+    - 4.0
+    - -16.0
+    type: junction
+  N_5_1:
+    pos:
+    - 4.0
+    - -12.0
+    type: junction
+  N_5_2:
+    pos:
+    - 4.0
+    - -8.0
+    type: junction
+  N_5_3:
+    pos:
+    - 4.0
+    - -4.0
+    type: junction
+  N_5_4:
+    pos:
+    - 4.0
+    - 0.0
+    type: junction
+  N_5_5:
+    pos:
+    - 4.0
+    - 4.0
+    type: junction
+  N_5_6:
+    pos:
+    - 4.0
+    - 8.0
+    type: junction
+  N_5_7:
+    pos:
+    - 4.0
+    - 12.0
+    type: junction
+  N_6_0:
+    pos:
+    - 8.0
+    - -16.0
+    type: junction
+  N_6_1:
+    pos:
+    - 8.0
+    - -12.0
+    type: junction
+  N_6_2:
+    pos:
+    - 8.0
+    - -8.0
+    type: junction
+  N_6_3:
+    pos:
+    - 8.0
+    - -4.0
+    type: junction
+  N_6_4:
+    pos:
+    - 8.0
+    - 0.0
+    type: junction
+  N_6_5:
+    pos:
+    - 8.0
+    - 4.0
+    type: junction
+  N_6_6:
+    pos:
+    - 8.0
+    - 8.0
+    type: junction
+  N_6_7:
+    pos:
+    - 8.0
+    - 12.0
+    type: junction
+  N_7_0:
+    pos:
+    - 12.0
+    - -16.0
+    type: junction
+  N_7_1:
+    pos:
+    - 12.0
+    - -12.0
+    type: junction
+  N_7_2:
+    pos:
+    - 12.0
+    - -8.0
+    type: junction
+  N_7_3:
+    pos:
+    - 12.0
+    - -4.0
+    type: junction
+  N_7_4:
+    pos:
+    - 12.0
+    - 0.0
+    type: junction
+  N_7_5:
+    pos:
+    - 12.0
+    - 4.0
+    type: junction
+  N_7_6:
+    pos:
+    - 12.0
+    - 8.0
+    type: junction
+  N_7_7:
+    pos:
+    - 12.0
+    - 12.0
+    type: junction

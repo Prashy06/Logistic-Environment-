@@ -1,0 +1,36 @@
+aisle_mode: directed
+edges:
+- - NW
+  - SW
+- - SW
+  - SE
+- - SE
+  - NE
+- - NE
+  - NW
+junctions:
+- NW
+- SW
+- SE
+- NE
+nodes:
+  NE:
+    pos:
+    - 4.0
+    - 10.0
+    type: junction
+  NW:
+    pos:
+    - -4.0
+    - 10.0
+    type: junction
+  SE:
+    pos:
+    - 4.0
+    - 0.0
+    type: junction
+  SW:
+    pos:
+    - -4.0
+    - 0.0
+    type: junction

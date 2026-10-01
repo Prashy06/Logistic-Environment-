@@ -1,0 +1,826 @@
+aisle_mode: bidirectional
+edges:
+- - H_0_0_N
+  - J_0_0
+- - H_0_0_S
+  - J_0_0
+- - H_0_0_E
+  - J_0_0
+- - H_0_0_W
+  - J_0_0
+- - H_0_1_N
+  - J_0_1
+- - H_0_1_S
+  - J_0_1
+- - H_0_1_E
+  - J_0_1
+- - H_0_1_W
+  - J_0_1
+- - H_0_2_N
+  - J_0_2
+- - H_0_2_S
+  - J_0_2
+- - H_0_2_E
+  - J_0_2
+- - H_0_2_W
+  - J_0_2
+- - H_0_3_N
+  - J_0_3
+- - H_0_3_S
+  - J_0_3
+- - H_0_3_E
+  - J_0_3
+- - H_0_3_W
+  - J_0_3
+- - H_1_0_N
+  - J_1_0
+- - H_1_0_S
+  - J_1_0
+- - H_1_0_E
+  - J_1_0
+- - H_1_0_W
+  - J_1_0
+- - H_1_1_N
+  - J_1_1
+- - H_1_1_S
+  - J_1_1
+- - H_1_1_E
+  - J_1_1
+- - H_1_1_W
+  - J_1_1
+- - H_1_2_N
+  - J_1_2
+- - H_1_2_S
+  - J_1_2
+- - H_1_2_E
+  - J_1_2
+- - H_1_2_W
+  - J_1_2
+- - H_1_3_N
+  - J_1_3
+- - H_1_3_S
+  - J_1_3
+- - H_1_3_E
+  - J_1_3
+- - H_1_3_W
+  - J_1_3
+- - H_2_0_N
+  - J_2_0
+- - H_2_0_S
+  - J_2_0
+- - H_2_0_E
+  - J_2_0
+- - H_2_0_W
+  - J_2_0
+- - H_2_1_N
+  - J_2_1
+- - H_2_1_S
+  - J_2_1
+- - H_2_1_E
+  - J_2_1
+- - H_2_1_W
+  - J_2_1
+- - H_2_2_N
+  - J_2_2
+- - H_2_2_S
+  - J_2_2
+- - H_2_2_E
+  - J_2_2
+- - H_2_2_W
+  - J_2_2
+- - H_2_3_N
+  - J_2_3
+- - H_2_3_S
+  - J_2_3
+- - H_2_3_E
+  - J_2_3
+- - H_2_3_W
+  - J_2_3
+- - H_3_0_N
+  - J_3_0
+- - H_3_0_S
+  - J_3_0
+- - H_3_0_E
+  - J_3_0
+- - H_3_0_W
+  - J_3_0
+- - H_3_1_N
+  - J_3_1
+- - H_3_1_S
+  - J_3_1
+- - H_3_1_E
+  - J_3_1
+- - H_3_1_W
+  - J_3_1
+- - H_3_2_N
+  - J_3_2
+- - H_3_2_S
+  - J_3_2
+- - H_3_2_E
+  - J_3_2
+- - H_3_2_W
+  - J_3_2
+- - H_3_3_N
+  - J_3_3
+- - H_3_3_S
+  - J_3_3
+- - H_3_3_E
+  - J_3_3
+- - H_3_3_W
+  - J_3_3
+- - H_4_0_N
+  - J_4_0
+- - H_4_0_S
+  - J_4_0
+- - H_4_0_E
+  - J_4_0
+- - H_4_0_W
+  - J_4_0
+- - H_4_1_N
+  - J_4_1
+- - H_4_1_S
+  - J_4_1
+- - H_4_1_E
+  - J_4_1
+- - H_4_1_W
+  - J_4_1
+- - H_4_2_N
+  - J_4_2
+- - H_4_2_S
+  - J_4_2
+- - H_4_2_E
+  - J_4_2
+- - H_4_2_W
+  - J_4_2
+- - H_4_3_N
+  - J_4_3
+- - H_4_3_S
+  - J_4_3
+- - H_4_3_E
+  - J_4_3
+- - H_4_3_W
+  - J_4_3
+- - H_0_0_E
+  - H_1_0_W
+- - H_0_0_N
+  - H_0_1_S
+- - H_0_1_E
+  - H_1_1_W
+- - H_0_1_N
+  - H_0_2_S
+- - H_0_2_E
+  - H_1_2_W
+- - H_0_2_N
+  - H_0_3_S
+- - H_0_3_E
+  - H_1_3_W
+- - H_1_0_E
+  - H_2_0_W
+- - H_1_0_N
+  - H_1_1_S
+- - H_1_1_E
+  - H_2_1_W
+- - H_1_1_N
+  - H_1_2_S
+- - H_1_2_E
+  - H_2_2_W
+- - H_1_2_N
+  - H_1_3_S
+- - H_1_3_E
+  - H_2_3_W
+- - H_2_0_E
+  - H_3_0_W
+- - H_2_0_N
+  - H_2_1_S
+- - H_2_1_E
+  - H_3_1_W
+- - H_2_1_N
+  - H_2_2_S
+- - H_2_2_E
+  - H_3_2_W
+- - H_2_2_N
+  - H_2_3_S
+- - H_2_3_E
+  - H_3_3_W
+- - H_3_0_E
+  - H_4_0_W
+- - H_3_0_N
+  - H_3_1_S
+- - H_3_1_E
+  - H_4_1_W
+- - H_3_1_N
+  - H_3_2_S
+- - H_3_2_E
+  - H_4_2_W
+- - H_3_2_N
+  - H_3_3_S
+- - H_3_3_E
+  - H_4_3_W
+- - H_4_0_N
+  - H_4_1_S
+- - H_4_1_N
+  - H_4_2_S
+- - H_4_2_N
+  - H_4_3_S
+junctions:
+- J_0_0
+- J_0_1
+- J_0_2
+- J_0_3
+- J_1_0
+- J_1_1
+- J_1_2
+- J_1_3
+- J_2_0
+- J_2_1
+- J_2_2
+- J_2_3
+- J_3_0
+- J_3_1
+- J_3_2
+- J_3_3
+- J_4_0
+- J_4_1
+- J_4_2
+- J_4_3
+nodes:
+  H_0_0_E:
+    junction: J_0_0
+    pos:
+    - 0.5
+    - 0.0
+    type: holding
+  H_0_0_N:
+    junction: J_0_0
+    pos:
+    - 0.0
+    - 0.5
+    type: holding
+  H_0_0_S:
+    junction: J_0_0
+    pos:
+    - 0.0
+    - -0.5
+    type: holding
+  H_0_0_W:
+    junction: J_0_0
+    pos:
+    - -0.5
+    - 0.0
+    type: holding
+  H_0_1_E:
+    junction: J_0_1
+    pos:
+    - 0.5
+    - 4.0
+    type: holding
+  H_0_1_N:
+    junction: J_0_1
+    pos:
+    - 0.0
+    - 4.5
+    type: holding
+  H_0_1_S:
+    junction: J_0_1
+    pos:
+    - 0.0
+    - 3.5
+    type: holding
+  H_0_1_W:
+    junction: J_0_1
+    pos:
+    - -0.5
+    - 4.0
+    type: holding
+  H_0_2_E:
+    junction: J_0_2
+    pos:
+    - 0.5
+    - 8.0
+    type: holding
+  H_0_2_N:
+    junction: J_0_2
+    pos:
+    - 0.0
+    - 8.5
+    type: holding
+  H_0_2_S:
+    junction: J_0_2
+    pos:
+    - 0.0
+    - 7.5
+    type: holding
+  H_0_2_W:
+    junction: J_0_2
+    pos:
+    - -0.5
+    - 8.0
+    type: holding
+  H_0_3_E:
+    junction: J_0_3
+    pos:
+    - 0.5
+    - 12.0
+    type: holding
+  H_0_3_N:
+    junction: J_0_3
+    pos:
+    - 0.0
+    - 12.5
+    type: holding
+  H_0_3_S:
+    junction: J_0_3
+    pos:
+    - 0.0
+    - 11.5
+    type: holding
+  H_0_3_W:
+    junction: J_0_3
+    pos:
+    - -0.5
+    - 12.0
+    type: holding
+  H_1_0_E:
+    junction: J_1_0
+    pos:
+    - 4.5
+    - 0.0
+    type: holding
+  H_1_0_N:
+    junction: J_1_0
+    pos:
+    - 4.0
+    - 0.5
+    type: holding
+  H_1_0_S:
+    junction: J_1_0
+    pos:
+    - 4.0
+    - -0.5
+    type: holding
+  H_1_0_W:
+    junction: J_1_0
+    pos:
+    - 3.5
+    - 0.0
+    type: holding
+  H_1_1_E:
+    junction: J_1_1
+    pos:
+    - 4.5
+    - 4.0
+    type: holding
+  H_1_1_N:
+    junction: J_1_1
+    pos:
+    - 4.0
+    - 4.5
+    type: holding
+  H_1_1_S:
+    junction: J_1_1
+    pos:
+    - 4.0
+    - 3.5
+    type: holding
+  H_1_1_W:
+    junction: J_1_1
+    pos:
+    - 3.5
+    - 4.0
+    type: holding
+  H_1_2_E:
+    junction: J_1_2
+    pos:
+    - 4.5
+    - 8.0
+    type: holding
+  H_1_2_N:
+    junction: J_1_2
+    pos:
+    - 4.0
+    - 8.5
+    type: holding
+  H_1_2_S:
+    junction: J_1_2
+    pos:
+    - 4.0
+    - 7.5
+    type: holding
+  H_1_2_W:
+    junction: J_1_2
+    pos:
+    - 3.5
+    - 8.0
+    type: holding
+  H_1_3_E:
+    junction: J_1_3
+    pos:
+    - 4.5
+    - 12.0
+    type: holding
+  H_1_3_N:
+    junction: J_1_3
+    pos:
+    - 4.0
+    - 12.5
+    type: holding
+  H_1_3_S:
+    junction: J_1_3
+    pos:
+    - 4.0
+    - 11.5
+    type: holding
+  H_1_3_W:
+    junction: J_1_3
+    pos:
+    - 3.5
+    - 12.0
+    type: holding
+  H_2_0_E:
+    junction: J_2_0
+    pos:
+    - 8.5
+    - 0.0
+    type: holding
+  H_2_0_N:
+    junction: J_2_0
+    pos:
+    - 8.0
+    - 0.5
+    type: holding
+  H_2_0_S:
+    junction: J_2_0
+    pos:
+    - 8.0
+    - -0.5
+    type: holding
+  H_2_0_W:
+    junction: J_2_0
+    pos:
+    - 7.5
+    - 0.0
+    type: holding
+  H_2_1_E:
+    junction: J_2_1
+    pos:
+    - 8.5
+    - 4.0
+    type: holding
+  H_2_1_N:
+    junction: J_2_1
+    pos:
+    - 8.0
+    - 4.5
+    type: holding
+  H_2_1_S:
+    junction: J_2_1
+    pos:
+    - 8.0
+    - 3.5
+    type: holding
+  H_2_1_W:
+    junction: J_2_1
+    pos:
+    - 7.5
+    - 4.0
+    type: holding
+  H_2_2_E:
+    junction: J_2_2
+    pos:
+    - 8.5
+    - 8.0
+    type: holding
+  H_2_2_N:
+    junction: J_2_2
+    pos:
+    - 8.0
+    - 8.5
+    type: holding
+  H_2_2_S:
+    junction: J_2_2
+    pos:
+    - 8.0
+    - 7.5
+    type: holding
+  H_2_2_W:
+    junction: J_2_2
+    pos:
+    - 7.5
+    - 8.0
+    type: holding
+  H_2_3_E:
+    junction: J_2_3
+    pos:
+    - 8.5
+    - 12.0
+    type: holding
+  H_2_3_N:
+    junction: J_2_3
+    pos:
+    - 8.0
+    - 12.5
+    type: holding
+  H_2_3_S:
+    junction: J_2_3
+    pos:
+    - 8.0
+    - 11.5
+    type: holding
+  H_2_3_W:
+    junction: J_2_3
+    pos:
+    - 7.5
+    - 12.0
+    type: holding
+  H_3_0_E:
+    junction: J_3_0
+    pos:
+    - 12.5
+    - 0.0
+    type: holding
+  H_3_0_N:
+    junction: J_3_0
+    pos:
+    - 12.0
+    - 0.5
+    type: holding
+  H_3_0_S:
+    junction: J_3_0
+    pos:
+    - 12.0
+    - -0.5
+    type: holding
+  H_3_0_W:
+    junction: J_3_0
+    pos:
+    - 11.5
+    - 0.0
+    type: holding
+  H_3_1_E:
+    junction: J_3_1
+    pos:
+    - 12.5
+    - 4.0
+    type: holding
+  H_3_1_N:
+    junction: J_3_1
+    pos:
+    - 12.0
+    - 4.5
+    type: holding
+  H_3_1_S:
+    junction: J_3_1
+    pos:
+    - 12.0
+    - 3.5
+    type: holding
+  H_3_1_W:
+    junction: J_3_1
+    pos:
+    - 11.5
+    - 4.0
+    type: holding
+  H_3_2_E:
+    junction: J_3_2
+    pos:
+    - 12.5
+    - 8.0
+    type: holding
+  H_3_2_N:
+    junction: J_3_2
+    pos:
+    - 12.0
+    - 8.5
+    type: holding
+  H_3_2_S:
+    junction: J_3_2
+    pos:
+    - 12.0
+    - 7.5
+    type: holding
+  H_3_2_W:
+    junction: J_3_2
+    pos:
+    - 11.5
+    - 8.0
+    type: holding
+  H_3_3_E:
+    junction: J_3_3
+    pos:
+    - 12.5
+    - 12.0
+    type: holding
+  H_3_3_N:
+    junction: J_3_3
+    pos:
+    - 12.0
+    - 12.5
+    type: holding
+  H_3_3_S:
+    junction: J_3_3
+    pos:
+    - 12.0
+    - 11.5
+    type: holding
+  H_3_3_W:
+    junction: J_3_3
+    pos:
+    - 11.5
+    - 12.0
+    type: holding
+  H_4_0_E:
+    junction: J_4_0
+    pos:
+    - 16.5
+    - 0.0
+    type: holding
+  H_4_0_N:
+    junction: J_4_0
+    pos:
+    - 16.0
+    - 0.5
+    type: holding
+  H_4_0_S:
+    junction: J_4_0
+    pos:
+    - 16.0
+    - -0.5
+    type: holding
+  H_4_0_W:
+    junction: J_4_0
+    pos:
+    - 15.5
+    - 0.0
+    type: holding
+  H_4_1_E:
+    junction: J_4_1
+    pos:
+    - 16.5
+    - 4.0
+    type: holding
+  H_4_1_N:
+    junction: J_4_1
+    pos:
+    - 16.0
+    - 4.5
+    type: holding
+  H_4_1_S:
+    junction: J_4_1
+    pos:
+    - 16.0
+    - 3.5
+    type: holding
+  H_4_1_W:
+    junction: J_4_1
+    pos:
+    - 15.5
+    - 4.0
+    type: holding
+  H_4_2_E:
+    junction: J_4_2
+    pos:
+    - 16.5
+    - 8.0
+    type: holding
+  H_4_2_N:
+    junction: J_4_2
+    pos:
+    - 16.0
+    - 8.5
+    type: holding
+  H_4_2_S:
+    junction: J_4_2
+    pos:
+    - 16.0
+    - 7.5
+    type: holding
+  H_4_2_W:
+    junction: J_4_2
+    pos:
+    - 15.5
+    - 8.0
+    type: holding
+  H_4_3_E:
+    junction: J_4_3
+    pos:
+    - 16.5
+    - 12.0
+    type: holding
+  H_4_3_N:
+    junction: J_4_3
+    pos:
+    - 16.0
+    - 12.5
+    type: holding
+  H_4_3_S:
+    junction: J_4_3
+    pos:
+    - 16.0
+    - 11.5
+    type: holding
+  H_4_3_W:
+    junction: J_4_3
+    pos:
+    - 15.5
+    - 12.0
+    type: holding
+  J_0_0:
+    pos:
+    - 0.0
+    - 0.0
+    type: junction
+  J_0_1:
+    pos:
+    - 0.0
+    - 4.0
+    type: junction
+  J_0_2:
+    pos:
+    - 0.0
+    - 8.0
+    type: junction
+  J_0_3:
+    pos:
+    - 0.0
+    - 12.0
+    type: junction
+  J_1_0:
+    pos:
+    - 4.0
+    - 0.0
+    type: junction
+  J_1_1:
+    pos:
+    - 4.0
+    - 4.0
+    type: junction
+  J_1_2:
+    pos:
+    - 4.0
+    - 8.0
+    type: junction
+  J_1_3:
+    pos:
+    - 4.0
+    - 12.0
+    type: junction
+  J_2_0:
+    pos:
+    - 8.0
+    - 0.0
+    type: junction
+  J_2_1:
+    pos:
+    - 8.0
+    - 4.0
+    type: junction
+  J_2_2:
+    pos:
+    - 8.0
+    - 8.0
+    type: junction
+  J_2_3:
+    pos:
+    - 8.0
+    - 12.0
+    type: junction
+  J_3_0:
+    pos:
+    - 12.0
+    - 0.0
+    type: junction
+  J_3_1:
+    pos:
+    - 12.0
+    - 4.0
+    type: junction
+  J_3_2:
+    pos:
+    - 12.0
+    - 8.0
+    type: junction
+  J_3_3:
+    pos:
+    - 12.0
+    - 12.0
+    type: junction
+  J_4_0:
+    pos:
+    - 16.0
+    - 0.0
+    type: junction
+  J_4_1:
+    pos:
+    - 16.0
+    - 4.0
+    type: junction
+  J_4_2:
+    pos:
+    - 16.0
+    - 8.0
+    type: junction
+  J_4_3:
+    pos:
+    - 16.0
+    - 12.0
+    type: junction
